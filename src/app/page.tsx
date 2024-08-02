@@ -217,12 +217,12 @@ export default function Page() {
                             </h2>
                             <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                                 Want to chat? Just shoot me a dm{" "}
-                                <Link
-                                    href={DATA.contact.social.X.url}
-                                    className="text-blue-500 hover:underline"
+                                <span
+
+                                    className=""
                                 >
                                     with a direct question on Whatsapp
-                                </Link>{" "}
+                                </span>{" "}
                                 0775124585
                             </p>
                         </div>
