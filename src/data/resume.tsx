@@ -4,7 +4,7 @@ import { CodeIcon, HomeIcon, NotebookIcon, PencilLine } from "lucide-react";
 export const DATA = {
     name: "Lakindu Rathmanagolla",
     initials: "LV",
-    url: "https://dillion.io",
+    url: "https://lakindu.vercel.app",
     location: "Colombo Sri lanka",
     locationLink: "https://www.google.com/maps/place/sanfrancisco",
     description:
@@ -50,19 +50,8 @@ export const DATA = {
 
                 navbar: true,
             },
-            X: {
-                name: "X",
-                url: "https://dub.sh/dillion-twitter",
-                icon: Icons.x,
-
-                navbar: false,
-            },
-            Youtube: {
-                name: "Youtube",
-                url: "https://dub.sh/dillion-youtube",
-                icon: Icons.youtube,
-                navbar: false,
-            },
+           
+           
             email: {
                 name: "Send Email",
                 url: "lakindu62@gmail.com",
