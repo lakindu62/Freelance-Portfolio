@@ -68,12 +68,12 @@ export const DATA = {
             href: "https://happymind.lk",
             badges: [],
             location: "Remote",
-            title: "Quality Assurance Engineer",
+            title: "Community Manager",
             logoUrl: "/happyMind.png",
-            start: "December 2022",
+            start: "July 2023",
             end: "Nov 2023",
             description:
-                "As a Website Quality Assurance Engineer, I was responsible for ensuring the highest standards of quality and performance for the company's online platform.",
+                "I was responsible for ensuring the highest standards of quality and performance for the company's online platform.",
         },
     ],
     education: [
@@ -82,7 +82,7 @@ export const DATA = {
             href: "https://www.sliit.lk/",
             degree: "BSc (Hons) in Information Technology Specialising in Software Engineering",
             logoUrl: "/sliit.png",
-            start: "2023",
+            start: "2022",
             end: "",
         },
         {
